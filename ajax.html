@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+
+</head>
+
+<body>
+    <h2>Data to be listed here:</h2>
+    <button onclick="sendRequest()">Send Request</button>
+
+
+    <script type="text/javascript">
+        function sendRequest() {
+            const http = new XMLHttpRequest();
+            http.onload = function () {
+                document.querySelector("h2").innerHTML = http.responseText;
+            }
+            const data = {
+                "Name": "Surchi",
+                "Description": "ASP.Net API Developer",
+                "Price": "200",
+                "CategoryID": "2"
+            };
+            http.open("Post", "http://localhost:64612/api/product");
+            http.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+            http.send(JSON.stringify(data));
+        }
+
+        /*$.ajax({
+            type: "POST",
+            data: JSON.stringify(getIDs()), //I assume getIDs returns an array of integers
+            url: "/approve",
+            contentType: "application/json; charset=utf-8",
+            processData: true,
+            cache: false,
+        })*/
+    </script>
+</body>
+
+</html>
