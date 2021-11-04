@@ -16,3 +16,21 @@ C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\ProductService\ProductServic
 C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.csproj.AssemblyReference.cache
 C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator.pc-PC\Documents\ASP.Net Core\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.genruntimeconfig.cache
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\bin\Debug\netcoreapp2.2\ProductService.deps.json
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\bin\Debug\netcoreapp2.2\ProductService.runtimeconfig.json
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\bin\Debug\netcoreapp2.2\ProductService.runtimeconfig.dev.json
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\bin\Debug\netcoreapp2.2\ProductService.dll
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\bin\Debug\netcoreapp2.2\ProductService.pdb
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.csproj.AssemblyReference.cache
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.AssemblyInfoInputs.cache
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.AssemblyInfo.cs
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.RazorAssemblyInfo.cache
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.RazorAssemblyInfo.cs
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.dll
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.pdb
+C:\Users\Administrator.pc-PC\Documents\git\ProductService\ProductService\obj\Debug\netcoreapp2.2\ProductService.genruntimeconfig.cache

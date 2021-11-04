@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\ProductService\\ProductService\\ProductService.csproj": {}
+    "C:\\Users\\Administrator.pc-PC\\Documents\\git\\ProductService\\ProductService\\ProductService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\ProductService\\ProductService\\ProductService.csproj": {
+    "C:\\Users\\Administrator.pc-PC\\Documents\\git\\ProductService\\ProductService\\ProductService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\ProductService\\ProductService\\ProductService.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator.pc-PC\\Documents\\git\\ProductService\\ProductService\\ProductService.csproj",
         "projectName": "ProductService",
-        "projectPath": "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\ProductService\\ProductService\\ProductService.csproj",
+        "projectPath": "C:\\Users\\Administrator.pc-PC\\Documents\\git\\ProductService\\ProductService\\ProductService.csproj",
         "packagesPath": "C:\\Users\\Administrator.pc-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\ProductService\\ProductService\\obj\\",
+        "outputPath": "C:\\Users\\Administrator.pc-PC\\Documents\\git\\ProductService\\ProductService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

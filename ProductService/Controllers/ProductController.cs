@@ -76,7 +76,7 @@ namespace ProductService.Controllers
             return new OkResult();
         }
 
-        [Route("sarwan/{id?}")]
+        [Route("sample/{id?}")]
         public IActionResult TestAction(int id)
         {
             Product product = productContext.Products.Where(x => x.ID == id).First();

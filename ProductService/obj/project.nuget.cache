@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNNSiERL7H6RisvohkA++0nn6EkeUQFaY3AKwoSlHdx+pwG9TQuFkwTL0++rI41yaE3+1tT5MgKPi3m1iOCdSA==",
+  "dgSpecHash": "LlSmVHmqtE00cKVkXZxOQ3yHEM6kd7ZYEB0MhtJC4csvQewYdxLRQWcovknRhVJsuij5BmhPn28TGDAbGNyayg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator.pc-PC\\Documents\\ASP.Net Core\\ProductService\\ProductService\\ProductService.csproj",
+  "projectFilePath": "C:\\Users\\Administrator.pc-PC\\Documents\\git\\ProductService\\ProductService\\ProductService.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
